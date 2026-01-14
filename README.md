@@ -67,9 +67,4 @@ All data included in this repository is **sanitized, anonymized, and non-PII**, 
 - Data modeling and relationship management
 - Executive dashboard design
 
----
-## Screenshot
-
-
----
 
